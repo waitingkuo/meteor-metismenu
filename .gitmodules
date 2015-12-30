@@ -1,0 +1,3 @@
+[submodule "metisMenu"]
+	path = metisMenu
+	url = https://github.com/onokumus/metisMenu.git
